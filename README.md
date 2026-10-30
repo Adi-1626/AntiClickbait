@@ -1,5 +1,7 @@
 # 🎥 Clickbait Clarifier 🚀
 
+![Clickbait Clarifier screenshot](docs/screenshots/Clickbait-Clarifier.jpg)
+
 **Stop wasting time on misleading videos.** Clickbait Clarifier uses a hybrid AI approach—combining **LightGBM Statistical Learning** with **Llama 3 Semantic Analysis**—to detect and flag deceptive YouTube content in real-time.
 
 ---
